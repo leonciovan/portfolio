@@ -8,7 +8,7 @@
 ### 🌑 About the Developer
 - 🎓 **Junior IT Student** | 3rd Year College.
 - 💻 Currently deep-diving into **Frontend Architecture** and **UI/UX Design**.
-- 🚀 Actively building projects for my **2027 Internship** goal.
+- 🚀 Actively building simple projects for my **2027 Internship** goal.
 - 📍 Based in the Philippines.
 
 ---
