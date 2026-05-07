@@ -1,6 +1,6 @@
 # <p align="center">⚡ VAN ALDOUS LEONCIO ⚡</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=3rd+Year+IT+Student;Future+Web+Developer;Building+Digital[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=3rd+Year+IT+Student;Future+Web+Developer;Building+Digital+Experiences;Internship+Target%3A+2026" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,13 +22,7 @@
   <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/copilot-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-### 🤖 Development Tools & AI Assistance
-- **GitHub Copilot** - AI-powered code completion and development assistant
 
 ---
 
@@ -65,8 +59,8 @@
 
 ### 📊 System Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leonciovan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height=[...]
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonciovan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=fffff[...]
+<img src="https://github-readme-stats.vercel.app/api?username=leonciovan&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="150" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonciovan&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="150" alt="languages card" />
 </p>
 
 ---
