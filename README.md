@@ -53,6 +53,26 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏥 Barangay Health Center Dashboard</h3>
+      <p>A comprehensive health center analytics and queue management dashboard. Designed for tracking patient visits, managing queues, and community announcements.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tool-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Type-Dashboard%20UI-000000?style=for-the-badge" />
+      </p>
+      <a href="https://www.figma.com/design/j6PsWADHUcnCkIy5iCZBpc/Untitled?node-id=0-1&t=b0RZBt5imriCr9wV-1" target="_blank">
+        <img src="https://img.shields.io/badge/🔗%20VIEW%20FIGMA%20DESIGN-000000?style=for-the-badge&logo=figma&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 More Projects Coming Soon</h3>
+      <p>Stay tuned for more UI/UX and web development projects as I continue my journey towards my 2027 internship.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-000000?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
